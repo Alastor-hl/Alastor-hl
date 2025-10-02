@@ -1,6 +1,6 @@
 ### Hi there
 
-i have been creating web applications for some time
+I have been creating web applications for some time
 
 <hr>
 
