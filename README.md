@@ -10,3 +10,7 @@ I have been creating web applications for some time
 <hr>
 
 <img src="https://api.taxenjoyer.com/api/v1/github">
+
+<hr>
+
+<a href="https://www.taxenjoyer.com"> Website: taxenjoyer.com </a>
